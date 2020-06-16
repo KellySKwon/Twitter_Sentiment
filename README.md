@@ -1,4 +1,4 @@
-# UC Berekely Data Analytics Bootcamp Final Project August 2019
+# UC Berekely Data Analytics Bootcamp Final Project (August 2019)
 
 # Neural Networks, ML, and NLP for hate speech classification
 
